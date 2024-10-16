@@ -1,0 +1,74 @@
+body {
+  background-image: url("https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?cs=srgb&dl=pexels-stywo-1054218.jpg&fm=jpg");
+  background-size: cover;
+}
+
+.card{
+  height: 600px;
+  width: 410px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(216, 224, 76);
+  margin-left: 530px;
+  margin-top: 50px;
+}
+
+.card img{
+  height: 110px; 
+  width: 110px;
+  border-radius: 50%;
+  border: 10px solid black;
+ margin-top: 50px;
+ margin-left: 140px;
+}
+
+p{
+  color: black;
+  margin-left: 150px;
+  text-wrap: balance;
+
+}
+
+h1{
+  color: black;
+  margin-left: 60px;
+}
+
+.icon{
+  margin-left: 130px;
+}
+
+.fa-brands{
+  margin-inline: 8px;
+}
+
+.contact{
+  background-color:rgb(216, 224, 76);
+  border: 3px solid black;
+  height: 50px;
+  width: 150px;
+  margin-left: 120px;
+  text-align: center;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+
+.bottom{
+  background-color: aliceblue;
+  height:180px ;
+  width: 410px;
+  margin-top: 50px;
+  border-radius: 10px;
+  display: flow-root;
+  
+}
+
+.bottom h3{
+  color: red;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.bottom h1{
+  margin-left: 80px;
+}
